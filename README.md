@@ -31,11 +31,11 @@ installed:
 - install Git CLient
 - install cxompat(lite) IDE to work with  code; e.g. visual studio code, Codeanywhere, Eclipse, ntelliJ IDEA, WebStorm, Atom;
 
-№№ Usage
+## Usage
 - use installed IDE
 - open folder where source code placed
 - open terminal window
-- to launch script: node testParallelSum.js
+- to launch script in Terminal put command: node testParallelSum.js
 
 
 ## License
