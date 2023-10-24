@@ -35,7 +35,7 @@ installed:
 - use installed IDE
 - open folder where source code placed
 - open terminal window
-- to launch script: node <file name of youe script *.js file>
+- to launch script: node testParallelSum.js
 
 
 ## License
