@@ -9,10 +9,10 @@ function calculateSum(arr, start, end) {
 }
 
 if (isMainThread) {
-  const numThreads = 4;
+  const numThreads = 4; 
   const arraySize = 1000000;
 
-  const inputArray = new Array(arraySize).fill(Math.floor(Math.random() * 1000) + 1);
+  const inputArray = new Array(arraySize).fill(Math.floor(Math.random() * 1000) + 1); 
 
   const chunkSize = Math.ceil(arraySize / numThreads);
   const workers = [];
@@ -58,4 +58,3 @@ if (isMainThread) {
   const sum = calculateSum(arr, start, end);
   parentPort.postMessage(sum);
 }
-
