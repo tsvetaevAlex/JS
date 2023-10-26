@@ -1,5 +1,5 @@
 # JS
-Drafts of practice JS learning   
+Drafts of practice JS learning   (Newbie Exam)
 
 №# Table of Contents
 - [Getting Started](#getting-started)
